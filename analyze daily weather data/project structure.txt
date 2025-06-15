@@ -1,0 +1,4 @@
+weather_project/
+├── weather.csv
+├── weather_analysis.py
+└── temperature_trend.png
